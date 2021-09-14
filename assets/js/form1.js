@@ -1,5 +1,5 @@
 var br = document.createElement("br");
-var formulaire = document.getElementById('formulaire')
+var formulaire = document.getElementById('formulaire');
 
 var form = document.createElement("form");
 form.setAttribute("methode", "POST");
